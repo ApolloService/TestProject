@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ListView.initialiseView(pController:):ListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.height">
+            </PersistentString>
+            <PersistentString
+               value = "(raceTableView.frame.height - 75) / 3">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
